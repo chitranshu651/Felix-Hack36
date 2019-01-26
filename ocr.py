@@ -1,11 +1,10 @@
 import httplib, urllib, base64, json, re
 from os import system
 
-#to run python ocr.py
-# CHANGE {MS_API_KEY} BELOW WITH YOUR MICROSOFT VISION API KEY
+
 ms_api_key = "3ce370692850429d98d3bfb773bc37c2"
 
-# setup vision API
+
 headers = {
     'Content-Type': 'application/octet-stream',
     'Ocp-Apim-Subscription-Key': ms_api_key,
