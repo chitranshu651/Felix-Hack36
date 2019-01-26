@@ -1,5 +1,5 @@
 # Felix-Hack36
-Felix, an assistant device for blind people. To summarise what all was that we wanted to incorporate in our device, here are the major features of our device-
+Felix, an assistant device for blind people. To summarise what all was that we want to incorporate in our device,here are the points-
 
 - Optical Character Recognition
 - Object Detection
